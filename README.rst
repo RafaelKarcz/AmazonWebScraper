@@ -67,4 +67,4 @@ Acknowledgments
 
 - Amazon for providing rich product pages suitable for scraping.
 - httpbin.org for testing HTTP headers.
-- AlexTheAnalyst for making this project a reality.
+- `AlexTheAnalyst <https://github.com/AlexTheAnalyst>`_ for making this project a reality.
